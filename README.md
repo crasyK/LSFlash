@@ -17,6 +17,7 @@ Run the flashcard app in your terminal:
 ```bash
 python LSFLASH.py
 ```
+<br>
 ## Contributing
 Contributions, issues, and feature requests are welcome!
 If you’d like to help improve the flashcard app, please consider the following:
@@ -24,5 +25,5 @@ If you’d like to help improve the flashcard app, please consider the following
 **Adding Support for Other Languages:** <br>
 Currently, the tool extracts Python function definitions. If you have experience with language-specific parsing libraries or regular expressions for other programming languages (e.g., JavaScript, Java, etc.), feel free to extend the code extraction functionality.
 <br>
-General Improvements:<br>
+**General Improvements:**<br>
 Any improvements, bug fixes, or additional features are welcome.
